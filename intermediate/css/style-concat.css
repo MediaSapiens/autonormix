@@ -132,7 +132,7 @@ h2{font-size:130%;}
 
 
 .line{height:39px;border-bottom:1px solid #fefee4;margin-bottom:10px;}
-.cbox a,footer a, footer a:visited, footer a:active, footer a:hover{color:#5bc1fb;}
+footer a, footer a:visited, footer a:active, footer a:hover{color:#5bc1fb;}
 footer h2{color:#fefee4;}
 footer ul{margin-left:13px;}
 .fcontent{background:#617c88;margin-bottom:10px;padding:0 0 10px 0;}

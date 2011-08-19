@@ -63,9 +63,9 @@ window.log = function(){
 })(document);
 $(document).ready(function() {
 $("a#map").fancybox({
-		 'autoScale' : false,
-		 'transitionIn' : 'none',
-		 'transitionOut' : 'none',
+		 'autoScale' : true,
+		 //'transitionIn' : 'none',
+		 //'transitionOut' : 'none',
 		 'type' : 'iframe'
 		});
 $(".servddesc a").click(function(){
